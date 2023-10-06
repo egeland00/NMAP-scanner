@@ -1,4 +1,4 @@
-# 🛡️ Portofolio 2 Port Scanner 🛡️
+# 🛡️ NMAP Port Scanner 🛡️
 
 This repository contains a simple port scanner script built with Python, utilizing the `nmap` tool.
 
