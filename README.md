@@ -41,4 +41,4 @@ Contributions are always welcome! Feel free to fork the repository and submit pu
 
 ## 📧 Contact 📧
 
-If you have questions or need further guidance, feel free to [open an issue](https://github.com/egeland00/NMAP-scanner.git/issues/new) or reach out directly via email.
+If you have questions or need further guidance, feel free to [open an issue](https://github.com/egeland00/NMAP-scanner/issues/new) or reach out directly via email.
