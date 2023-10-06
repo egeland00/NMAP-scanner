@@ -9,7 +9,7 @@ This repository contains a simple port scanner script built with Python, utilizi
 
 1. Clone the repository:
     ```bash
-    git clone [<your-repository-link>](https://github.com/egeland00/NMAP-scanner.git)
+    git clone https://github.com/egeland00/NMAP-scanner.git
     ```
 
 2. Navigate to the project directory:
