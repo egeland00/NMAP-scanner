@@ -2,7 +2,7 @@ import pyfiglet
 import nmap
 import ipaddress
 import re
-import sys  # Don't forget to import sys
+import sys  
 
 ascii_banner = pyfiglet.figlet_format("Nmap Scanner")
 print(ascii_banner)
