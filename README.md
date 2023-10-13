@@ -5,6 +5,7 @@ This repository contains a simple port scanner script built with Python, utilizi
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
 
+
 ## 🚀 Quick Start 🚀
 
 1. Clone the repository:
@@ -26,7 +27,7 @@ This repository contains a simple port scanner script built with Python, utilizi
     ```bash
     python scanner.py
     ```
-
+![img](scanner.png)
 ## 🔒 Disclaimer 🔒
 
 This script is for **educational purposes only**. Always ensure you have **explicit permission** to scan any network or system. Unauthorized scanning can lead to legal repercussions and is considered unethical. The author and contributors to this repository are not responsible for any misuse or potential damages caused by this software.
